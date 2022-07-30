@@ -24,6 +24,6 @@
 * Finance, Human Resources, Quality Management, and Research seem to be less affected by this wave
   
   # Overview
-  <p> This project showed that 72,458 employees are soon to retire from Pewlett-Hackard and 1,549 mentees fiting their requirements. The following chart shows that Pewlett-Hackard is orders of magnitude off from being able to mentor enough people to fill the retiring roles at all title levels. Maybe they should consider widening their window potential mentees beyond a single birth year.
+  <p> This project showed that 72,458 employees are soon to retire from Pewlett-Hackard and 1,549 mentees fiting their requirements. The following chart shows that Pewlett-Hackard is orders of magnitude off from being able to mentor enough people to fill the retiring roles at all title levels. Maybe they should consider widening their window of potential mentees beyond a single birth year.
   
   ![retirees_v_mentees](https://user-images.githubusercontent.com/106105597/181986978-94cfe7a1-303f-4d1f-922a-7b875afb4f37.png)
