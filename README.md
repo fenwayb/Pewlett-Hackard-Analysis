@@ -13,6 +13,7 @@
 
 <p>To combat this wave the company wants to introduce a mentorship program where these retiring employees first teach younger employees to help make the transition easier. We used the database to find a list of employees eligible to be the mentees. 1549 employees fit this critera. </p>
 
+  <p> the following chart shows the breakdown of retirees by department </p>
 ![count](https://user-images.githubusercontent.com/106105597/181956073-6f74a2c2-8fb8-4b1b-b08d-313f0fd107c2.png)
 
   ***
